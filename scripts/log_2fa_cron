@@ -1,0 +1,2 @@
+#!/bin/sh
+cat /cron/last_code.txt >> /data/totp_log.txt

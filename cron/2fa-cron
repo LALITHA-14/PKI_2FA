@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -s http://localhost:8080/generate-2fa > /cron/last_code.txt
